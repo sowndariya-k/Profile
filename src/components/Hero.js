@@ -27,3 +27,15 @@ export default function Hero(){
     </section>
 
 }
+<div class="social-icon">
+<div class="social-item">
+    <a href="https://www.linkedin.com/company/program-warehouse">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="linkedin" width="20px"/>
+    </a>
+</div>
+<div class="social-item">
+    <a href="https://github.com/program-warehouse">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" width="20px"/>
+    </a>
+</div>
+</div>
