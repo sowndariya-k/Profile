@@ -30,7 +30,7 @@ export default function Projects() {
         </div>
 
 
-        <div className="w-full flex flex-col md:flex-row px-10 gap-9">
+        <div className="w-full flex flex-col md:flex-row justify-center px-10 gap-9">
             {config.projects.map((project) =>(
                 <div className='relative'>
             <img className='py-5 h-[300px] w-[400px]' src={project.image}/>
