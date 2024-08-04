@@ -1,5 +1,5 @@
 import { LiaLinkedin } from 'react-icons/lia';
-import HeroImg from '../assets/hero.png';
+import HeroImg from 'src/assets/hero.png';
 import { AiOutlineGithub, AiOutlineLinkedin } from "react-icons/ai";
 
 
