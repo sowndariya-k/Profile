@@ -14,7 +14,7 @@ export default function Resume() {
                 <div className='flex flex-col justify-center text-white'>
                     <h1 className='text-4xl border-b-4 border-primary mb-5 w-[130px] font-bold'>Resume</h1>
                     <p className='pb-5 justify-center'>
-                        You can view my resume<br/><br/><a className='btn' target="_blank" rel="noopener noreferrer" href={config.link}>Download</a></p>
+                        You can view my resume<br/><br/><a className='btn' target="_blank" rel="noopener noreferrer" href={https:drive.google.com/file/d/1Cq1V6pT3UpMDme1Hd4s2ffJdmcpgp02y/view?usp=sharing }>Download</a></p>
                 </div>
             </div>
         </section>
